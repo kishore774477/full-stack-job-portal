@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Demo Job Seeker",
+    "email": "user@example.com",
+    "password": "$2b$10$fKw9PZNDeCWycEmKAuVR/O/MBll0Um94SYvnYMxOELre0Ib2k7N6K",
+    "role": "job_seeker"
+  },
+  {
+    "id": "2",
+    "name": "Demo Employer",
+    "email": "employer@example.com",
+    "password": "$2b$10$fKw9PZNDeCWycEmKAuVR/O/MBll0Um94SYvnYMxOELre0Ib2k7N6K",
+    "role": "employer"
+  }
+]
